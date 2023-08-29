@@ -1,8 +1,0 @@
-﻿  Building 'NT' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
-  Driver.cpp
-  NT.vcxproj -> E:\学习\Code\DrIver\Windows_Driver_Development_Internals\01\NT\x64\Debug\NT.sys
-  Done Adding Additional Store
-  Successfully signed: E:\\Code\DrIver\Windows_Driver_Development_Internals\01\NT\x64\Debug\NT.sys
-  
-  Inf2Cat task was skipped as there were no inf files to process
-  
