@@ -1,0 +1,6 @@
+﻿  Building 'WdmDemo' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  Stamping Debug\WdmDemo.inf
+  Stamping [Version] section with DriverVer=07/01/2023,16.10.49.353
+  DriverMain.cpp
+E:\学习\Code\DrIver\WdmDemo\WdmDemo\DriverMain.cpp(30,33): error C2220: 以下警告被视为错误
+E:\学习\Code\DrIver\WdmDemo\WdmDemo\DriverMain.cpp(30,33): warning C4100: “PhysicalDeviceObject”: 未引用的形参

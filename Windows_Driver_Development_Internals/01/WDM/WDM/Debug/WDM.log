@@ -1,0 +1,8 @@
+﻿  Building 'WDM' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  Driver.cpp
+  WDM.vcxproj -> E:\学习\Code\DrIver\Windows_Driver_Development_Internals\01\WDM\Debug\WDM.sys
+  Done Adding Additional Store
+  Successfully signed: E:\\Code\DrIver\Windows_Driver_Development_Internals\01\WDM\Debug\WDM.sys
+  
+  Inf2Cat task was skipped as there were no inf files to process
+  

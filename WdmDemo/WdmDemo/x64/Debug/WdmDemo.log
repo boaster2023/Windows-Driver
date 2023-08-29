@@ -1,0 +1,22 @@
+﻿  Building 'WdmDemo' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  Stamping x64\Debug\WdmDemo.inf
+  Stamping [Version] section with DriverVer=07/01/2023,16.41.14.65
+  DriverMain.cpp
+  WdmDemo.vcxproj -> E:\学习\Code\DrIver\WdmDemo\x64\Debug\WdmDemo.sys
+  Done Adding Additional Store
+  Successfully signed: E:\\Code\DrIver\WdmDemo\x64\Debug\WdmDemo.sys
+  
+  ........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  E:\学习\Code\DrIver\WdmDemo\x64\Debug\WdmDemo\wdmdemo.cat
+  Done Adding Additional Store
+  Successfully signed: E:\\Code\DrIver\WdmDemo\x64\Debug\WdmDemo\wdmdemo.cat
+  
